@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898593348471",
+    "firebase_url": "https://dbcloud-c1dde.firebaseio.com",
+    "project_id": "dbcloud-c1dde",
+    "storage_bucket": "dbcloud-c1dde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898593348471:android:d1130e40106773522d9f72",
+        "android_client_info": {
+          "package_name": "com.utrm.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898593348471-vkjgflkib09bpi27n0hq339omghhib2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utrm.firebasecrud",
+            "certificate_hash": "40d42455f54ed1a2f76d503991af15a9bd66d35a"
+          }
+        },
+        {
+          "client_id": "898593348471-04trcpimrm7uu4427eslechajp80jkcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlth1mBIhz803ocicCU-ujO5Vi25Lalc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898593348471-04trcpimrm7uu4427eslechajp80jkcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
